@@ -10,9 +10,9 @@ const CONFIG = {
     tempoDeDelay: "00:05",
 
     // 🔗 Links de Checkout dos Botões (GLPatches)
-    linkPote2: "https://lifebalancepeak.com/b?p=GPP2V1&b=341&fid=640&fnid=2&pfnid=1&pg=9467&aff_id=1002",
-    linkPote6: "https://lifebalancepeak.com/b?p=GPP6V1&b=341&fid=640&fnid=2&pfnid=1&pg=9467&aff_id=1002",
-    linkPote3: "https://lifebalancepeak.com/b?p=GPP3V1&b=341&fid=640&fnid=2&pfnid=1&pg=9467&aff_id=1002"
+    linkPote2: "https://prostateguide.guide/b?p=PPT2V1&b=338&fid=636&fnid=2&pfnid=1&pg=17314&aff_id=130",
+    linkPote6: "https://prostateguide.guide/b?p=PPT6V1&b=338&fid=636&fnid=2&pfnid=1&pg=17314&aff_id=130",
+    linkPote3: "https://prostateguide.guide/b?p=PPT3V1&b=338&fid=636&fnid=2&pfnid=1&pg=17314&aff_id=130"
 };
 
 // =====================================================================
