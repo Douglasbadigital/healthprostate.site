@@ -7,7 +7,7 @@ const CONFIG = {
     // Exemplo: "34:00" = 34 minutos | "00:30" = 30 segundos (para testes)
     // Nota: 3 segundos extras são adicionados automaticamente como
     // compensação pelo tempo médio até o lead dar play no vídeo
-    tempoDeDelay: "23:00",
+    tempoDeDelay: "00:05",
 
     // 🔗 Links de Checkout dos Botões (GLPatches)
     linkPote2: "https://lifebalancepeak.com/b?p=GPP2V1&b=341&fid=640&fnid=2&pfnid=1&pg=9467&aff_id=1002",
@@ -48,9 +48,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
     setTimeout(() => {
         const imagens = [
-            "https://raw.githubusercontent.com/Douglasbadigital/allmylife.site/refs/heads/main/vsl/images/2-bottles.png",
-            "https://raw.githubusercontent.com/Douglasbadigital/allmylife.site/refs/heads/main/vsl/images/6-bottles.png",
-            "https://raw.githubusercontent.com/Douglasbadigital/allmylife.site/refs/heads/main/vsl/images/3-bottles.png",
+            "https://raw.githubusercontent.com/Douglasbadigital/healthprostate.site/refs/heads/main/vsl/images/2PATCHES.png",
+            "https://raw.githubusercontent.com/Douglasbadigital/healthprostate.site/refs/heads/main/vsl/images/6PATCHES.png",
+            "https://raw.githubusercontent.com/Douglasbadigital/healthprostate.site/refs/heads/main/vsl/images/3PATCHES.png",
             "https://cdn.elasticfunnels.io/123/assets/media/Group 507.png",
             "https://cdn.elasticfunnels.io/123/assets/media/MBP_BUTTON_1.png",
             "https://elasticfunnels-cdn.b-cdn.net/111/assets/cards.avif",
